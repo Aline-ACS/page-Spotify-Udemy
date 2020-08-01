@@ -2,13 +2,13 @@ body {
     background: url(../imagens/capa.png),
                 url(../imagens/ruido.png),
                 linear-gradient(50deg,#ff4169, #7c26f8);
-    background-attachment: fixed; /*deixa o background fixo; */
+    background-attachment: fixed; /*deixar background fixo; */
     font-family: Arial, Helvetica, sans-serif;
 }
 
 html, body, #home {
     height: 100%;   
-    overflow-x: hidden ; /*esconde a barra horizontal de rolagem*/
+    overflow-x: hidden ; /*esconder barra horizontal de rolagem*/
 }
 
 nav.navbar-transparente {
